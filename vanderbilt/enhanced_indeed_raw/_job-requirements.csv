@@ -1,0 +1,667 @@
+job_x_id,job_requirement_name
+2,Heavy lifting
+2,Warehouse experience
+2,Electric pallet jack
+3,High school diploma or GED
+3,Organizational skills
+3,Front desk
+3,Multi-line phone systems
+3,Microsoft Excel
+5,Customer service
+5,POS
+5,Serving
+7,Night Shift
+7,SHIFT_AVAILABILITY
+7,Overnight Shift
+7,Shift availability
+8,Organizational skills
+8,Legal administrative experience
+8,Legal drafting
+8,Customer service
+8,Insurance verification
+8,Day Shift
+9,Driver's License
+9,Guard Card
+10,Customer service
+10,Restaurant experience
+10,POS
+10,Serving
+13,Doctorate
+13,EDUCATION
+13,TN Optometry License
+14,Driver's License
+14,Customer service
+14,Time management
+14,Serving
+14,Photography
+14,Creativity
+15,BLS Certification
+15,Certified Family Nurse Practitioner
+15,Primary care
+15,Spanish
+15,Advanced practice provider: 1 year
+61,Veterinary Technology
+61,Veterinary Technician Certification
+61,Medication administration
+61,Animal restraint
+61,Pet care
+61,Doctorate
+62,BCBA
+62,Patient care
+62,Medical terminology
+62,Patient assessment
+62,Behavioral health
+63,RRT
+63,CRT
+64,Customer service
+64,POS
+64,Serving
+65,Driver's License
+65,Guard Card
+66,Organizational skills
+66,Legal administrative experience
+66,Legal drafting
+66,Customer service
+66,Insurance verification
+66,Day Shift
+68,LPN
+68,Patient observation
+68,Nursing
+68,Acute care
+68,CPR Certification
+69,Heavy lifting
+69,Warehouse experience
+69,Electric pallet jack
+70,Cleaning
+70,Residential cleaning
+70,Customer service
+70,Floor care
+70,English
+71,Driver's License
+71,Customer service
+71,Time management
+71,Serving
+71,Photography
+71,Creativity
+72,Manufacturing
+72,Assembly
+73,Customer service
+73,Restaurant experience
+73,POS
+73,Serving
+74,Restaurant experience
+74,Basic math
+74,Food safety
+74,Cash register
+74,Customer service
+74,Day Shift
+76,Bar
+76,General counsel
+76,Analysis skills
+76,Immigration law
+76,Time management
+81,Automotive diagnostics
+81,CDL A
+81,Hand tools
+81,Assembly
+82,Forklift
+82,Warehouse experience
+82,Forklift Certification
+82,Pallet jack
+82,Hazmat
+84,Driver's License
+84,English
+84,Shift availability
+85,Cleaning
+85,Banquet experience
+85,Food preparation
+85,POS
+85,Food service
+85,High school or equivalent
+86,Massage Therapy License
+86,Customer service
+86,Care plans
+88,Heavy lifting
+88,Forklift Certification
+88,Shop math
+88,Forklift
+88,Materials handling
+88,Manufacturing
+89,BLS Certification
+89,RN License
+89,Nursing
+90,Customer service
+90,Hospitality
+90,Hotel experience
+91,RN License
+91,BLS Certification
+91,Nursing
+93,Hotel experience
+93,Front desk
+93,Customer service
+94,Pharmacy technician experience
+94,PTCB Certification
+94,Pharmacy Technician Certification
+94,Pharmacy Technician License
+94,Medical terminology
+94,Day Shift
+96,Medical terminology
+96,Customer support
+96,Organizational skills
+96,Administrative experience
+96,Medical office experience
+96,Medical administrative support
+97,Dispatching
+97,Typing
+97,Organizational skills
+97,Transportation management systems
+97,Microsoft Outlook
+98,Driver's License
+98,Ethernet
+98,Hand tools
+98,Cabling
+98,Computer networking
+99,Medical office experience
+99,Customer service
+99,Phone etiquette
+99,Data entry
+100,Insurance verification
+100,Call center
+100,EMR systems
+100,EHR systems
+100,ICD-10
+101,Cash handling
+101,Basic math
+101,Product demos
+101,Customer service
+101,POS
+101,Day Shift
+102,Basic math
+102,Retail sales
+102,Sales
+102,Customer service
+102,Retail math
+103,Customer service
+103,Guest services
+103,Cash handling
+103,Hospitality
+103,Basic math
+103,Events management
+121,Property management
+121,Customer service
+121,Microsoft Office
+121,Microsoft Excel
+121,Property leasing
+121,Fair Housing regulations
+122,Pharmacy Technician Certification
+122,Spanish
+122,Microsoft Office
+122,EMR systems
+122,Organizational skills
+122,Customer service
+123,Driver's License
+123,Guard Card
+124,Heavy lifting
+124,Warehouse experience
+124,Electric pallet jack
+126,Bachelor's
+126,EDUCATION
+127,Customer service
+127,Restaurant experience
+127,POS
+127,Serving
+128,Customer service
+128,POS
+128,Serving
+129,Organizational skills
+129,Legal administrative experience
+129,Legal drafting
+129,Customer service
+129,Insurance verification
+129,Day Shift
+130,Driver's License
+130,Customer service
+130,Time management
+130,Serving
+130,Photography
+130,Creativity
+133,Ambition
+133,Teamwork
+133,Interpersonal skills
+133,Integrity
+133,Bachelor's
+134,Manufacturing
+134,Assembly
+160,English
+160,Driver's License
+160,Warehouse experience
+160,Forklift
+160,Spanish
+160,Day Shift
+209,Heavy lifting
+209,Warehouse experience
+209,Electric pallet jack
+212,Veterinary Medicine
+212,Veterinary critical care experience
+212,DEA Certification
+212,Animal restraint
+212,Aseptic technique
+215,Organizational skills
+215,Legal administrative experience
+215,Legal drafting
+215,Customer service
+215,Insurance verification
+215,Day Shift
+216,Driver's License
+216,Guard Card
+218,Customer service
+218,POS
+218,Serving
+220,Doctoral degree
+220,Law
+220,Litigation
+220,General counsel
+220,Legal research
+220,Bar
+221,Customer service
+221,Hospitality
+221,Hotel experience
+222,Driver's License
+222,Customer service
+222,Time management
+222,Serving
+222,Photography
+222,Creativity
+223,Manufacturing
+223,Assembly
+224,Customer service
+224,Restaurant experience
+224,POS
+224,Serving
+225,Behavioral health
+225,Counseling
+225,Counseling Certification
+225,Individual / group counseling
+225,Leadership
+225,Master's degree
+227,Medical License
+227,Medical coding
+227,Physiology knowledge
+227,Anatomy knowledge
+227,HIPAA
+227,Vital signs
+228,Cleaning
+228,Residential cleaning
+228,Customer service
+228,Floor care
+228,English
+230,Basic math
+230,Retail sales
+230,Sales
+230,Customer service
+230,Retail math
+232,Cleaning
+232,Banquet experience
+232,Food preparation
+232,POS
+232,Food service
+232,High school or equivalent
+235,Medical office experience
+235,Customer service
+235,Phone etiquette
+235,Data entry
+236,Restaurant experience
+238,Restaurant experience
+238,Food handling
+238,Food service
+239,Forklift
+239,Sales
+239,Assistant manager experience
+239,Sales management
+239,Shift management
+239,Cash handling
+240,Real Estate License
+240,LICENSE
+252,Heavy lifting
+252,Caregiving
+252,Direct support
+252,First Aid Certification
+252,CPR Certification
+252,Patient care
+316,English
+316,Driver's License
+316,Warehouse experience
+316,Forklift
+316,Spanish
+316,Day Shift
+375,Forklift
+375,Sales
+375,Assistant manager experience
+375,Sales management
+375,Shift management
+375,Cash handling
+376,Veterinary Technology
+376,Veterinary Technician Certification
+376,Medication administration
+376,Animal restraint
+376,Pet care
+376,Doctorate
+377,Heavy lifting
+377,Warehouse experience
+377,Electric pallet jack
+380,Customer service
+380,POS
+380,Serving
+381,Manufacturing
+381,Assembly
+382,Organizational skills
+382,Legal administrative experience
+382,Legal drafting
+382,Customer service
+382,Insurance verification
+382,Day Shift
+383,Customer service
+383,Restaurant experience
+383,POS
+383,Serving
+386,Driver's License
+386,Customer service
+386,Time management
+386,Serving
+386,Photography
+386,Creativity
+387,Heavy lifting
+387,Forklift Certification
+387,Shop math
+387,Forklift
+387,Materials handling
+387,Manufacturing
+388,Bachelor's
+388,EDUCATION
+388,Research Experience: 1 year
+388,Language
+436,Driver's License
+436,Ethernet
+436,Hand tools
+436,Cabling
+436,Computer networking
+438,Organizational skills
+438,Legal administrative experience
+438,Legal drafting
+438,Customer service
+438,Insurance verification
+438,Day Shift
+439,Customer service
+439,Restaurant experience
+439,POS
+439,Serving
+442,Driver's License
+442,Customer service
+442,Time management
+442,Serving
+442,Photography
+442,Creativity
+443,LPN
+443,Acute care
+443,CPR Certification
+443,BLS Certification
+444,Hotel experience
+444,Front desk
+444,Customer service
+445,Heavy lifting
+445,Warehouse experience
+445,Electric pallet jack
+446,Manufacturing
+446,Assembly
+447,Maintenance
+447,Groundskeeping
+447,Landscape maintenance
+447,High school or equivalent
+447,Driver's License
+448,Cleaning
+448,Residential cleaning
+448,Customer service
+448,Floor care
+448,English
+449,Customer service
+449,Guest services
+449,Cash handling
+449,Hospitality
+449,Basic math
+449,Events management
+451,Customer service
+451,POS
+451,Serving
+466,Behavioral health
+466,Counseling
+466,Counseling Certification
+466,Individual / group counseling
+466,Leadership
+466,Master's degree
+467,Organizational skills
+467,Legal administrative experience
+467,Legal drafting
+467,Customer service
+467,Insurance verification
+467,Day Shift
+468,Heavy lifting
+468,Warehouse experience
+468,Electric pallet jack
+469,Registered Dental Hygienist
+469,Aseptic technique
+469,CPR Certification
+469,Nitrous Oxide Certification
+470,BLS Certification
+470,Physical Therapy License
+471,ACLS Certification
+471,BLS Certification
+471,Nursing
+471,PALS Certification
+471,RN License
+471,Paramedic License
+472,Customer service
+472,Restaurant experience
+472,POS
+472,Serving
+473,Driver's License
+473,Customer service
+473,Time management
+473,Serving
+473,Photography
+473,Creativity
+477,Customer service
+477,POS
+477,Serving
+479,Cleaning
+479,Residential cleaning
+479,Customer service
+479,Floor care
+479,English
+480,Manufacturing
+480,Assembly
+483,Writing skills
+483,Research
+483,Litigation
+483,Negotiation
+483,Law
+483,Law office
+484,BLS Certification
+484,Driving
+484,Medication administration
+484,EMT-B
+484,EMT experience
+485,LVN
+485,LICENSE
+485,BLS Certification
+485,License/Certification
+486,Medical terminology
+486,Customer support
+486,Organizational skills
+486,Administrative experience
+486,Medical office experience
+486,Medical administrative support
+487,Cash handling
+487,Basic math
+487,Product demos
+487,Customer service
+487,POS
+487,Day Shift
+488,Driver's License
+488,Ethernet
+488,Hand tools
+488,Cabling
+488,Computer networking
+490,RN License
+490,CPR Certification
+490,Medication administration
+490,Spinal tap
+490,Care plans
+490,LPN
+491,Dispatching
+491,Typing
+491,Organizational skills
+491,Transportation management systems
+491,Microsoft Outlook
+492,Basic math
+492,Retail sales
+492,Sales
+492,Customer service
+492,Retail math
+494,Customer service
+494,Guest services
+494,Cash handling
+494,Hospitality
+494,Basic math
+494,Events management
+495,Hotel experience
+495,Front desk
+495,Customer service
+496,Manufacturing
+496,Assembly
+496,Computer operation
+496,Kaizen
+496,Lean manufacturing
+496,Day Shift
+497,Bachelor's
+497,EDUCATION
+497,Research Experience: 1 year
+497,Language
+498,LPN
+498,Nursing
+498,RN License
+498,Continuous improvement
+498,Acute care
+498,Night Shift
+499,Insurance verification
+499,Call center
+499,EMR systems
+499,EHR systems
+499,ICD-10
+500,BLS Certification
+500,LICENSE
+500,LPN
+500,License/Certification
+501,Customer service
+501,Microsoft Excel
+501,NetSuite
+501,Microsoft Word
+501,Microsoft Office
+501,Bilingual
+503,Driver's License
+503,Distribution center
+503,Spanish
+503,Bilingual
+503,Basic math
+503,Heavy lifting
+505,Customer service
+505,Administrative experience
+505,Organizational skills
+505,Phone etiquette
+505,Front desk
+505,Day Shift
+506,Veterinary Medicine
+506,Veterinary critical care experience
+506,DEA Certification
+506,Animal restraint
+506,Aseptic technique
+508,Restaurant experience
+508,Food handling
+508,Food service
+509,Bachelor's degree
+509,Data entry
+509,Writing skills
+509,Organizational skills
+509,Cash register
+509,Cash handling
+513,Customer service
+513,Hospitality
+513,Hotel experience
+515,Materials handling
+515,Warehouse management system
+515,Equipment repair
+515,Organizational skills
+515,Customer service
+517,LPN
+517,Acute care
+517,CPR Certification
+517,BLS Certification
+518,Day Shift
+518,SHIFT_AVAILABILITY
+519,Data entry
+519,Customer service
+519,Analysis skills
+519,Administrative experience
+519,QuickBooks
+525,Dispatching
+525,3PL
+525,GIS
+525,AS400
+525,Transportation management systems
+555,Driver's License
+555,Customer service
+555,Time management
+555,Serving
+555,Photography
+555,Creativity
+558,Manufacturing
+558,Assembly
+559,Veterinary Medicine
+559,Veterinary critical care experience
+559,DEA Certification
+559,Animal restraint
+559,Aseptic technique
+560,Customer service
+560,POS
+560,Serving
+561,Organizational skills
+561,Legal administrative experience
+561,Legal drafting
+561,Customer service
+561,Insurance verification
+561,Day Shift
+563,Customer service
+563,Restaurant experience
+563,POS
+563,Serving
+565,Heavy lifting
+565,Warehouse experience
+565,Electric pallet jack
+566,LPN
+566,Acute care
+566,CPR Certification
+566,BLS Certification
+568,Forklift
+568,Sales
+568,Assistant manager experience
+568,Sales management
+568,Shift management
+568,Cash handling
+570,LVN
+570,LICENSE
+570,BLS Certification
+570,License/Certification
+572,Cleaning
+572,Residential cleaning
+572,Customer service
+572,Floor care
+572,English
